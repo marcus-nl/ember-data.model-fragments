@@ -30,6 +30,8 @@ var FragmentArray = StatefulArray.extend({
   
   options: null,
 
+  options: null,
+
   init: function() {
     this._super();
     this._isInitializing = false;
